@@ -1,0 +1,10 @@
+.image{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 95vw;
+    height: 80vh;
+    background-image:url('./task.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
